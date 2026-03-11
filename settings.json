@@ -8,7 +8,7 @@
   "server": {
     "ip": "Seiki123.aternos.me",
     "port": 53649,
-    "version": "1.21.10"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
